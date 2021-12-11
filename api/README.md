@@ -1,8 +1,8 @@
 # お笑いジャッジ.com  
 <br />
 
-フロントエンド側GitHub  
-https://github.com/en-Barry/owarai_judge_front  
+バックエンド側GitHub  
+https://github.com/en-Barry/owarai_judge_api_back 
 <br />
 
 ## アプリ概要
