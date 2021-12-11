@@ -1,6 +1,6 @@
 # お笑いジャッジ.com  
 <br />
-https://github.com/en-Barry/owarai_judge  
+https://www.owarai-judge.com/ 
 <br />
 <br />
 
@@ -16,11 +16,6 @@ https://github.com/en-Barry/owarai_judge
 Twitter上でも審査結果を晒すのがお笑いファンの中でも恒例ですが、わざわざファイナリストの名前を入力するのが面倒な一面がありました。  
 また、自分の意見を正義と思い込み「あの審査員はおかしい！」「面白くなかったのに贔屓で勝ち上がった」など、心を痛めるようなツイートが近年多く見られるようになりました。  
 この現状を変えるには、「入力の手間が省ける審査アプリ」「国民の審査を客観的に見られるアプリ」が必要だと思い作成しました。  
-<br />
-<br />
-
-## リンク
-https://www.owarai-judge.com/
 <br />
 <br />
 
@@ -51,7 +46,7 @@ https://www.owarai-judge.com/
   - seed-fu &ensp; 2.3.9 
 
 ### インフラ
-- Heroku or Netlify（予定）
+- Heroku
 - MySQL　&ensp; 
 
 ### ER図
